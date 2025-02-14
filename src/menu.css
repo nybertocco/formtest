@@ -1,0 +1,16 @@
+header {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.h1-menu {
+    font-size: 5rem;
+    width: 40rem;
+}
+
+.link-menu {
+    font-size: 3rem;
+}
