@@ -44,13 +44,10 @@
     }
     
     .label-home {
-        font-size: 1.4rem;
-        width: 8rem;
+        font-size: 1.6rem;
+        width: 9rem;
         height: 6rem;
-        padding-top: 2rem;
-        padding-left: 2rem;
-        padding-right: 2rem;
-        padding-bottom: 2rem;
+        padding: 2rem;
         border-radius: 8px 0 0 8px;
         border-right: none;
         background-color: rgb(24, 24, 24);
