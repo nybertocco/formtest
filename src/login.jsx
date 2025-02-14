@@ -26,7 +26,7 @@ export default function Login() {
       <h1 className="h1-login">Antes de entrar, faça seu login!</h1>
       <div className="register-login">
         <label className="label-login" htmlFor="email">
-          E-mail
+          Email
         </label>
         <input
           className="input-login"
