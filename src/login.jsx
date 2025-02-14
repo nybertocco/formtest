@@ -59,7 +59,7 @@ export default function Login() {
       </button>
 
       <p className="p-login">
-        <Link to="/">Voltar para tela de cadastro</Link>
+        <Link to="/formtest/">Voltar para tela de cadastro</Link>
       </p>
     </form>
   );
