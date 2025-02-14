@@ -77,7 +77,7 @@ export default function Home() {
       </button>
 
       <p className="p-home">
-        <Link to="/login">Já tem conta? Clique aqui</Link>
+        <Link to="/formtest/login">Já tem conta? Clique aqui</Link>
       </p>
     </form>
   );
