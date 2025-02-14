@@ -7,15 +7,15 @@ import Menu from "./menu.jsx";
 
 const router = createBrowserRouter([
   {
-    path: "/",
+    path: "/formtest/",
     element: <Home />,
   },
   {
-    path: "/login",
+    path: "/formtest/login",
     element: <Login />,
   },
   {
-    path: "/menu",
+    path: "/formtest/menu",
     element: <Menu />,
   },
 ]);

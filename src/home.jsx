@@ -20,7 +20,7 @@ export default function Home() {
     console.log("E-mail:", emailCadastro);
     console.log("Senha:", senhaCadastro);
 
-    navigate("/menu");
+    navigate("/formtest/menu");
   };
 
   return (

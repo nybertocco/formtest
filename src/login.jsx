@@ -18,7 +18,7 @@ export default function Login() {
     console.log("E-mail:", email);
     console.log("Senha:", senha);
 
-    navigate("/menu");
+    navigate("/formtest/menu");
   };
 
   return (
