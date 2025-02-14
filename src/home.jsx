@@ -44,7 +44,7 @@ export default function Home() {
 
       <div className="register-home">
         <label className="label-home" htmlFor="emailCadastro">
-          E-mail
+          Email
         </label>
         <input
           className="input-home"
